@@ -1,5 +1,5 @@
 {
-    "name": "torizon_detectimg",
+    "name": "torizon_detectfaces",
     "dockerFile": "Dockerfile",
     "extensions": [
         "ms-vscode.cpptools",
